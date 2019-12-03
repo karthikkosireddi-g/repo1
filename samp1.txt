@@ -1,0 +1,4 @@
+Line 1 
+and adding a new file for the 1st time 
+directly into my GitHub repository
+End of file
